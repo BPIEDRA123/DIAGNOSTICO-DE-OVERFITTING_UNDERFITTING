@@ -76,7 +76,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔧 Instalación
+##  Instalación
 
 1. Clonar el repositorio.
 2. Crear un entorno virtual.
