@@ -2,8 +2,6 @@
 
 > **Resumen corto:** Desarrollo de un sistema basado en inteligencia artificial para la detección temprana de cáncer de tiroides mediante imágenes ecográficas, evaluando modelos de Machine Learning y Deep Learning.
 
-[![Estado](https://img.shields.io/badge/status-Activo-brightgreen)]() [![Licencia](https://img.shields.io/badge/license-MIT-blue)]() [![Python](https://img.shields.io/badge/Python-3.10%2B-informational)]() [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)]()
-
 ---
 
 ##  Tabla de Contenidos
