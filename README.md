@@ -204,4 +204,5 @@ El proyecto valida la **viabilidad del uso de IA como apoyo al diagnóstico clí
 ## Autores
 
 Byron Piedra
+
 Christian Garcia 
