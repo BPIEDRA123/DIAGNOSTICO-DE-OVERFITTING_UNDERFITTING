@@ -21,7 +21,6 @@
 * [Acceso a Documentación](#-acceso-a-documentación)
 * [Conclusiones](#-conclusiones)
 * [Referencias](#-referencias)
-* [Licencia](#-licencia)
 
 ---
 
